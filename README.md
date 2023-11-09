@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my Github profile. I have been learning Github in Github Education.
+This is my Github profile. I have been learning Github in Github Education. I'm trying all these features.
 <!--
 **stanxz/stanxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
